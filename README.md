@@ -1,1 +1,1 @@
-# online-lerning-platform
+# online-learning-platform
