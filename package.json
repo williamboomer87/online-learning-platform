@@ -1,0 +1,18 @@
+{
+  "name": "online-learning-platform-system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Kasuri",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^7.1.0"
+  }
+}
